@@ -1,0 +1,18 @@
+{
+  "total_revenue": 360215.0,
+  "orders": 1500,
+  "aov": 240.14,
+  "customers": 299,
+  "top_category": "Electronics",
+  "top_category_revenue": 231193.0,
+  "top_product": "Laptop",
+  "top_product_revenue": 164517.0,
+  "best_month": "2025-04",
+  "best_month_revenue": 33417.0,
+  "segments": {
+    "Loyal": 186,
+    "Champions": 75,
+    "Regular": 29,
+    "At Risk": 9
+  }
+}
